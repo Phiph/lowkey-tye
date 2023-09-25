@@ -43,6 +43,10 @@
               "target": "Package",
               "version": "[1.10.1, )"
             },
+            "Azure.Security.KeyVault.Keys": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
             "Azure.Security.KeyVault.Secrets": {
               "target": "Package",
               "version": "[4.5.0, )"

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nlaMRlnASnUCjtXNW2Bsw7X1Gk4citUTDVS7pywqUilVpwk0EnV0fN0vWL7FvAC1rCa9+v5BzWnceFoP2XXmxQ==",
+  "dgSpecHash": "NcJGKw6t2xgF/C2g4DwJy4zeLmZ1pbpu4fXX0lvlmCtu6EhTo5joUYNx1OrgGlvDiR9fRaN7N0mFfLOAOjEk7g==",
   "success": true,
   "projectFilePath": "/Users/phiph/Projects/Access/Experiments/lowkey-tye/src/LowKey.API/LowKey.API.csproj",
   "expectedPackageFiles": [
     "/Users/phiph/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/phiph/.nuget/packages/azure.identity/1.10.1/azure.identity.1.10.1.nupkg.sha512",
+    "/Users/phiph/.nuget/packages/azure.security.keyvault.keys/4.5.0/azure.security.keyvault.keys.4.5.0.nupkg.sha512",
     "/Users/phiph/.nuget/packages/azure.security.keyvault.secrets/4.5.0/azure.security.keyvault.secrets.4.5.0.nupkg.sha512",
     "/Users/phiph/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/Users/phiph/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

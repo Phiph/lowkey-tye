@@ -41,3 +41,4 @@
 /Users/phiph/Projects/Access/Experiments/lowkey-tye/src/LowKey.API/bin/Debug/net7.0/System.Memory.Data.dll
 /Users/phiph/Projects/Access/Experiments/lowkey-tye/src/LowKey.API/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/phiph/Projects/Access/Experiments/lowkey-tye/src/LowKey.API/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/phiph/Projects/Access/Experiments/lowkey-tye/src/LowKey.API/bin/Debug/net7.0/Azure.Security.KeyVault.Keys.dll
