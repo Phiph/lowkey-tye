@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: /Users/phiph/Projects/Access/Experiments/lowkey-tye/src/LowKey.API/bin/Debug/net7.0/LowKey.API
+RunArguments:
+TargetPath: /Users/phiph/Projects/Access/Experiments/lowkey-tye/src/LowKey.API/bin/Debug/net7.0/LowKey.API.dll
+PublishDir: bin/Debug/net7.0/publish/
+AssemblyName: LowKey.API
+IntermediateOutputPath: obj/Debug/net7.0/
+TargetFramework: net7.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 7.0
+FrameworkReference: Microsoft.NETCore.App;Microsoft.AspNetCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb: true
+AzureFunctionsVersion:
